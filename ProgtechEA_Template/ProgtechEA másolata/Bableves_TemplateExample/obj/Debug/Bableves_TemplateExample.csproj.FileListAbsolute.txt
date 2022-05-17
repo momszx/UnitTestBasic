@@ -1,0 +1,8 @@
+D:\Programozás\ProgTech\ProgtechEA\Bableves_TemplateExample\bin\Debug\Bableves_TemplateExample.exe.config
+D:\Programozás\ProgTech\ProgtechEA\Bableves_TemplateExample\bin\Debug\Bableves_TemplateExample.exe
+D:\Programozás\ProgTech\ProgtechEA\Bableves_TemplateExample\bin\Debug\Bableves_TemplateExample.pdb
+D:\Programozás\ProgTech\ProgtechEA\Bableves_TemplateExample\obj\Debug\Bableves_TemplateExample.csproj.AssemblyReference.cache
+D:\Programozás\ProgTech\ProgtechEA\Bableves_TemplateExample\obj\Debug\Bableves_TemplateExample.csproj.SuggestedBindingRedirects.cache
+D:\Programozás\ProgTech\ProgtechEA\Bableves_TemplateExample\obj\Debug\Bableves_TemplateExample.csproj.CoreCompileInputs.cache
+D:\Programozás\ProgTech\ProgtechEA\Bableves_TemplateExample\obj\Debug\Bableves_TemplateExample.exe
+D:\Programozás\ProgTech\ProgtechEA\Bableves_TemplateExample\obj\Debug\Bableves_TemplateExample.pdb

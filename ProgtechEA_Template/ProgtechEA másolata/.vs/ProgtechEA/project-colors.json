@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b677ae35-eb5a-46b3-8dc4-44d8d954160c": {
+      "ProjectGuid": "b677ae35-eb5a-46b3-8dc4-44d8d954160c",
+      "DisplayName": "Intro",
+      "ColorIndex": 0
+    },
+    "efaeb1b2-d834-401d-8be6-c93d28428417": {
+      "ProjectGuid": "efaeb1b2-d834-401d-8be6-c93d28428417",
+      "DisplayName": "01_UnitIntro",
+      "ColorIndex": 1
+    },
+    "457e2ee9-3eee-4371-a8fc-18dbd6d526ee": {
+      "ProjectGuid": "457e2ee9-3eee-4371-a8fc-18dbd6d526ee",
+      "DisplayName": "02_Singleton",
+      "ColorIndex": 2
+    },
+    "88e2d7e5-b379-4b4a-82bf-ed618ae887c2": {
+      "ProjectGuid": "88e2d7e5-b379-4b4a-82bf-ed618ae887c2",
+      "DisplayName": "03_StrategyPattern",
+      "ColorIndex": 3
+    },
+    "04a1c4e4-5762-4a8b-b29e-1b249e4b2223": {
+      "ProjectGuid": "04a1c4e4-5762-4a8b-b29e-1b249e4b2223",
+      "DisplayName": "Bableves_TemplateExample",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
